@@ -1,0 +1,1 @@
+The offset factor is approximated using yfinance adjusted close price and the aggregated 1-min data from databento.
