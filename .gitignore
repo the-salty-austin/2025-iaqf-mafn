@@ -1,1 +1,2 @@
-.env
+*.env
+*-options-ohlcv-1d.csv

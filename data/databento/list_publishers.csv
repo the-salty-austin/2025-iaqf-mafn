@@ -1,0 +1,97 @@
+,publisher_id,dataset,venue,description
+0,1,GLBX.MDP3,GLBX,CME Globex MDP 3.0
+1,2,XNAS.ITCH,XNAS,Nasdaq TotalView-ITCH
+2,3,XBOS.ITCH,XBOS,Nasdaq BX TotalView-ITCH
+3,4,XPSX.ITCH,XPSX,Nasdaq PSX TotalView-ITCH
+4,5,BATS.PITCH,BATS,Cboe BZX Depth Pitch
+5,6,BATY.PITCH,BATY,Cboe BYX Depth Pitch
+6,7,EDGA.PITCH,EDGA,Cboe EDGA Depth Pitch
+7,8,EDGX.PITCH,EDGX,Cboe EDGX Depth Pitch
+8,9,XNYS.PILLAR,XNYS,NYSE Integrated
+9,10,XCIS.PILLAR,XCIS,NYSE National Integrated
+10,11,XASE.PILLAR,XASE,NYSE American Integrated
+11,12,XCHI.PILLAR,XCHI,NYSE Chicago Integrated
+12,13,XCIS.BBO,XCIS,NYSE National BBO
+13,14,XCIS.TRADES,XCIS,NYSE National Trades
+14,15,MEMX.MEMOIR,MEMX,MEMX Memoir Depth
+15,16,EPRL.DOM,EPRL,MIAX Pearl Depth
+16,17,XNAS.NLS,FINN,FINRA/Nasdaq TRF Carteret
+17,18,XNAS.NLS,FINC,FINRA/Nasdaq TRF Chicago
+18,19,XNYS.TRADES,FINY,FINRA/NYSE TRF
+19,20,OPRA.PILLAR,AMXO,OPRA - NYSE American
+20,21,OPRA.PILLAR,XBOX,OPRA - Boston Options Exchange
+21,22,OPRA.PILLAR,XCBO,OPRA - Cboe Options Exchange
+22,23,OPRA.PILLAR,EMLD,OPRA - MIAX Emerald
+23,24,OPRA.PILLAR,EDGO,OPRA - Cboe EDGX Options Exchange
+24,25,OPRA.PILLAR,GMNI,OPRA - Nasdaq GEMX
+25,26,OPRA.PILLAR,XISX,OPRA - Nasdaq ISE
+26,27,OPRA.PILLAR,MCRY,OPRA - Nasdaq MRX
+27,28,OPRA.PILLAR,XMIO,OPRA - Miami International Securities
+28,29,OPRA.PILLAR,ARCO,OPRA - NYSE Arca
+29,30,OPRA.PILLAR,OPRA,OPRA - Options Price Reporting Authority
+30,31,OPRA.PILLAR,MPRL,OPRA - MIAX Pearl
+31,32,OPRA.PILLAR,XNDQ,OPRA - Nasdaq Options Market
+32,33,OPRA.PILLAR,XBXO,OPRA - Nasdaq BX Options
+33,34,OPRA.PILLAR,C2OX,OPRA - Cboe C2 Options Exchange
+34,35,OPRA.PILLAR,XPHL,OPRA - Nasdaq PHLX
+35,36,OPRA.PILLAR,BATO,OPRA - Cboe BZX Options
+36,37,OPRA.PILLAR,MXOP,OPRA - MEMX Options Exchange
+37,38,IEXG.TOPS,IEXG,IEX TOPS
+38,39,DBEQ.BASIC,XCHI,DBEQ Basic - NYSE Chicago
+39,40,DBEQ.BASIC,XCIS,DBEQ Basic - NYSE National
+40,41,DBEQ.BASIC,IEXG,DBEQ Basic - IEX
+41,42,DBEQ.BASIC,EPRL,DBEQ Basic - MIAX Pearl
+42,43,ARCX.PILLAR,ARCX,NYSE Arca Integrated
+43,44,XNYS.BBO,XNYS,NYSE BBO
+44,45,XNYS.TRADES,XNYS,NYSE Trades
+45,46,XNAS.QBBO,XNAS,Nasdaq QBBO
+46,47,XNAS.NLS,XNAS,Nasdaq Trades
+47,48,EQUS.PLUS,XCHI,Databento US Equities Plus - NYSE Chicago
+48,49,EQUS.PLUS,XCIS,Databento US Equities Plus - NYSE National
+49,50,EQUS.PLUS,IEXG,Databento US Equities Plus - IEX
+50,51,EQUS.PLUS,EPRL,Databento US Equities Plus - MIAX Pearl
+51,52,EQUS.PLUS,XNAS,Databento US Equities Plus - Nasdaq
+52,53,EQUS.PLUS,XNYS,Databento US Equities Plus - NYSE
+53,54,EQUS.PLUS,FINN,Databento US Equities Plus - FINRA/Nasdaq TRF Carteret
+54,55,EQUS.PLUS,FINY,Databento US Equities Plus - FINRA/NYSE TRF
+55,56,EQUS.PLUS,FINC,Databento US Equities Plus - FINRA/Nasdaq TRF Chicago
+56,57,IFEU.IMPACT,IFEU,ICE Futures Europe (Commodities)
+57,58,NDEX.IMPACT,NDEX,ICE Endex
+58,59,DBEQ.BASIC,DBEQ,Databento US Equities Basic - Consolidated
+59,60,EQUS.PLUS,EQUS,EQUS Plus - Consolidated
+60,61,OPRA.PILLAR,SPHR,OPRA - MIAX Sapphire
+61,62,EQUS.ALL,XCHI,Databento US Equities (All Feeds) - NYSE Chicago
+62,63,EQUS.ALL,XCIS,Databento US Equities (All Feeds) - NYSE National
+63,64,EQUS.ALL,IEXG,Databento US Equities (All Feeds) - IEX
+64,65,EQUS.ALL,EPRL,Databento US Equities (All Feeds) - MIAX Pearl
+65,66,EQUS.ALL,XNAS,Databento US Equities (All Feeds) - Nasdaq
+66,67,EQUS.ALL,XNYS,Databento US Equities (All Feeds) - NYSE
+67,68,EQUS.ALL,FINN,Databento US Equities (All Feeds) - FINRA/Nasdaq TRF Carteret
+68,69,EQUS.ALL,FINY,Databento US Equities (All Feeds) - FINRA/NYSE TRF
+69,70,EQUS.ALL,FINC,Databento US Equities (All Feeds) - FINRA/Nasdaq TRF Chicago
+70,71,EQUS.ALL,BATS,Databento US Equities (All Feeds) - CBOE BZX
+71,72,EQUS.ALL,BATY,Databento US Equities (All Feeds) - CBOE BYX
+72,73,EQUS.ALL,EDGA,Databento US Equities (All Feeds) - CBOE EDGA
+73,74,EQUS.ALL,EDGX,Databento US Equities (All Feeds) - CBOE EDGX
+74,75,EQUS.ALL,XBOS,Databento US Equities (All Feeds) - Nasdaq BX
+75,76,EQUS.ALL,XPSX,Databento US Equities (All Feeds) - Nasdaq PSX
+76,77,EQUS.ALL,MEMX,Databento US Equities (All Feeds) - MEMX
+77,78,EQUS.ALL,XASE,Databento US Equities (All Feeds) - NYSE American
+78,79,EQUS.ALL,ARCX,Databento US Equities (All Feeds) - NYSE Arca
+79,80,EQUS.ALL,LTSE,Databento US Equities (All Feeds) - Long-Term Stock Exchange
+80,81,XNAS.BASIC,XNAS,Nasdaq Basic - Nasdaq
+81,82,XNAS.BASIC,FINN,Nasdaq Basic - FINRA/Nasdaq TRF Carteret
+82,83,XNAS.BASIC,FINC,Nasdaq Basic - FINRA/Nasdaq TRF Chicago
+83,84,IFEU.IMPACT,XOFF,ICE Futures Europe - Off-Market Trades
+84,85,NDEX.IMPACT,XOFF,ICE Endex - Off-Market Trades
+85,86,XNAS.NLS,XBOS,Nasdaq NLS - Nasdaq BX
+86,87,XNAS.NLS,XPSX,Nasdaq NLS - Nasdaq PSX
+87,88,XNAS.BASIC,XBOS,Nasdaq Basic - Nasdaq BX
+88,89,XNAS.BASIC,XPSX,Nasdaq Basic - Nasdaq PSX
+89,90,EQUS.SUMMARY,EQUS,Databento Equities Summary
+90,91,XCIS.TRADESBBO,XCIS,NYSE National Trades and BBO
+91,92,XNYS.TRADESBBO,XNYS,NYSE Trades and BBO
+92,93,XNAS.BASIC,EQUS,Nasdaq Basic - Consolidated
+93,94,EQUS.ALL,EQUS,Databento US Equities (All Feeds) - Consolidated
+94,95,EQUS.MINI,EQUS,Databento US Equities Mini
+95,96,XNYS.TRADES,EQUS,NYSE Trades - Consolidated
