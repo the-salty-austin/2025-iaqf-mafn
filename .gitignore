@@ -1,9 +1,3 @@
 *.env
 *-options-ohlcv-1d.csv
-data/option_iv/AAPL-iv-1d.csv
-data/option_iv/TSLA-iv-1d.csv
-data/option_iv/MSFT-iv-1d.csv
-data/option_iv/NVDA-iv-1d.csv
-data/option_iv/META-iv-1d.csv
-data/option_iv/GOOG-iv-1d.csv
-data/option_iv/AMZN-iv-1d.csv
+data/option_iv/
