@@ -11,8 +11,8 @@ sp500_ticker = '^GSPC'
 start_date = '2019-12-30'
 
 # Download data for the Magnificent Seven and the S&P 500
-magnificent_seven_data = yf.download(magnificent_seven_tickers, start=start_date)['Adj Close']
-sp500_data = yf.download(sp500_ticker, start=start_date)['Adj Close']
+magnificent_seven_data = yf.download(magnificent_seven_tickers, start=start_date)['Close']
+sp500_data = yf.download(sp500_ticker, start=start_date)['Close']
 
 # Combine the data into a single DataFrame
 combined_data = magnificent_seven_data.copy()
