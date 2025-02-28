@@ -1,0 +1,3 @@
+*.env
+*-options-ohlcv-1d.csv
+data/option_iv/
