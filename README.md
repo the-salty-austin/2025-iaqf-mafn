@@ -7,9 +7,9 @@ The main files used for each question are as highlighted below.
 
 ### Question 1
 - thomas/q1/iaqf-q1-v1.ipynb
-- thomas/alex/competition.py
+- alex/competition.py
 
 ### Question 2
-- thomas/alex/iaqf_kurtosis.py
+- alex/iaqf_kurtosis.py
 ### Question 3
 - thomas/q3/iaqf-q3-v1.ipynb
